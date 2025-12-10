@@ -10,14 +10,14 @@ import Projects from "./components/sections/Projects";
 import Contact from "./components/sections/Contact";
 import Footer from "./components/sections/Footer";
 
-const Body = styled.div `
+const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
   width: 100%;
   overflow-x: hidden;
   position: relative;
 `;
 
-const Wrapper = styled.div `
+const Wrapper = styled.div`
   padding-bottom: 100px;
   background: linear-gradient(
       38.73deg,
@@ -34,43 +34,29 @@ const Wrapper = styled.div `
 `;
 
 function App() {
-    return ( <
-        ThemeProvider theme = { darkTheme } >
-        <
-        BrowserRouter >
-        <
-        Navbar / >
-        <
-        Body >
-        <
-        div >
-        <
-        Hero / >
+  return (
+    <ThemeProvider theme={darkTheme}>
+      <BrowserRouter>
+        <Navbar />
+        <Body>
+          <div>
+            <Hero />
 
-        <
-        Wrapper >
-        <
-        Skills / >
-        <
-        /Wrapper>
+            <Wrapper>
+              <Skills />
+            </Wrapper>
 
-        <
-        Education / >
-        <
-        Certificates / >
-        <
-        Projects / >
-        <
-        Contact / >
+            <Education />
+            <Certificates />
+            <Projects />
+            <Contact />
 
-        <
-        Footer / >
-        <
-        /div> <
-        /Body> <
-        /BrowserRouter> <
-        /ThemeProvider>
-    );
+            <Footer />
+          </div>
+        </Body>
+      </BrowserRouter>
+    </ThemeProvider>
+  );
 }
 
 export default App;

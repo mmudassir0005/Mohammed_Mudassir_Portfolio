@@ -9,7 +9,7 @@ export const Bio = {
     ],
     description: "Currently pursuing a B.E. in Information Science and Engineering with strong skills in software development and problem-solving. Passionate about innovation, continuous learning, and building practical, real-world solutions. Actively developing expertise in modern technologies such as React.js for front-end development and Spring Boot for back-end development. Also won the E-Cell innovation contest at SIRMVIT, showcasing creativity, teamwork, and the ability to design impactful solutions.",
     github: "https://github.com/mmudassir0005",
-    resume: "https://drive.google.com/file/d/185KtcPA42xGNyOVRC2EXZkQk1W7h5PQQ/view?usp=drivesdk ",
+    resume: "https://drive.google.com/file/d/1d1xXAr1PJVNfdkGLxxpS6_GvcQaia6YH/view?usp=sharing ",
     linkedin: "https://www.linkedin.com/in/mohammed-mudassir-54718225b/",
     insta: "https://www.instagram.com/mmudassir0005/",
     facebook: "https://www.facebook.com/mmudassir0005/",
@@ -81,10 +81,6 @@ export const skills = [{
                 image: "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
             },
             {
-                name: "Google Cloud",
-                image: "https://static-00.iconduck.com/assets.00/google-cloud-platform-logo-icon-2048x1824-pg4wzspq.png",
-            },
-            {
                 name: "Docker",
                 image: "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
             },
@@ -93,20 +89,8 @@ export const skills = [{
                 image: "https://toppng.com/uploads/preview/jenkins-logo-11609365847mufysaivph.png",
             },
             {
-                name: "Nginx",
-                image: "https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png",
-            },
-            {
-                name: "Grafana",
-                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png",
-            },
-            {
                 name: "Kubernetes",
                 image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png",
-            },
-            {
-                name: "Prometheus",
-                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png",
             },
         ],
     },
@@ -136,6 +120,14 @@ export const skills = [{
             {
                 name: "Figma",
                 image: "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
+            },
+            {
+                name: "Agile Methodology",
+                image: "https://imgs.search.brave.com/1mgVD4oKhqS10O3VFQ1IIRGwTrKHYpa1GLH2Inqj0Pg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuYXNhbmEuYml6/L3RyYW5zZm9ybS9m/MzUxOTYyMy00NGU0/LTQ1MDYtOGUxZi0z/OGNiNzQ4MTljNTgv/aW5saW5lLWFnaWxl/LWFnaWxlLW1ldGhv/ZG9sb2d5LTEtMng_/aW89dHJhbnNmb3Jt/OmZpbGwsd2lkdGg6/MjU2MCZmb3JtYXQ9/d2VicA",
+            },
+            {
+                name: "Power BI",
+                image: "https://imgs.search.brave.com/73fSplZ45glGAeCJ4DbNwK-uvwmzZbmZ12L61R8aUXQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly96b29t/Y2hhcnRzd2Vic3Rv/cmFnZS5ibG9iLmNv/cmUud2luZG93cy5u/ZXQvdGVtcGxhdGUt/Z2FsbGVyeS90aC0y/MDI0MDUzMC0xNjE3/NDktcG93ZXItYmkt/Y3VzdG9tZXItcmV2/aWV3LWFuYWx5c2lz/LXJlcG9ydC1vZC1j/b250ZXN0LnBuZw",
             },
         ],
     },

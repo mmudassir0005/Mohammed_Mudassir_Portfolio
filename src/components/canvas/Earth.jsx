@@ -3,7 +3,9 @@ import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
 
 const Earth = () => {
-  const earth = useGLTF("./planet/scene.gltf");
+  // Load model from the public folder using PUBLIC_URL so it works
+  // both in dev and when the app is served from a subpath.
+  const earth = useGLTF(`${process.env.PUBLIC_URL || ''}/planet/scene.gltf`);
   return (
     <primitive object={earth.scene} scale={3} position-y={0} rotation-y={0} />
   );
