@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Mohammed_Mudassir_Portfolio/static/css/main.58a0c615.css",
+    "main.js": "/Mohammed_Mudassir_Portfolio/static/js/main.2c3b48c6.js",
+    "static/media/HeroImage.jpg": "/Mohammed_Mudassir_Portfolio/static/media/HeroImage.e2f7867e326b2eaae6b2.jpg",
+    "index.html": "/Mohammed_Mudassir_Portfolio/index.html",
+    "main.58a0c615.css.map": "/Mohammed_Mudassir_Portfolio/static/css/main.58a0c615.css.map",
+    "main.2c3b48c6.js.map": "/Mohammed_Mudassir_Portfolio/static/js/main.2c3b48c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.2c3b48c6.js"
+  ]
+}
