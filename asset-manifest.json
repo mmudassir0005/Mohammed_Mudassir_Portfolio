@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/Mohammed_Mudassir_Portfolio/static/css/main.7edda102.css",
-    "main.js": "/Mohammed_Mudassir_Portfolio/static/js/main.6e53cada.js",
+    "main.css": "/Mohammed_Mudassir_Portfolio/static/css/main.575ae4b1.css",
+    "main.js": "/Mohammed_Mudassir_Portfolio/static/js/main.927718ae.js",
     "static/media/HeroImage.jpg": "/Mohammed_Mudassir_Portfolio/static/media/HeroImage.e2f7867e326b2eaae6b2.jpg",
     "index.html": "/Mohammed_Mudassir_Portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.7edda102.css",
-    "static/js/main.6e53cada.js"
+    "static/css/main.575ae4b1.css",
+    "static/js/main.927718ae.js"
   ]
 }
